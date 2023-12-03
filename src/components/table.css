@@ -1,0 +1,94 @@
+.tabler{
+    padding-bottom: 2vw;
+    
+    height: 8vh;
+
+}
+table{
+    width: 95%;
+    margin: auto;
+    border: 1px solid rgb(221, 220, 220);
+    border-radius: 4px;
+}
+
+.h{
+    color: rgb(153, 155, 157);
+}
+  
+.mainclass{
+    margin-top: 0vh;
+    margin-left: 0vw;
+}
+.tabled{
+    padding-left: 10vh;
+}
+.btn{
+    height: 5vh;
+    width: 5vh;
+    background-color:white;
+    border: 1px solid rgb(219, 212, 212);
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.btn2{
+    color: rgb(238, 73, 73);
+    margin-left: 2vh;
+}
+.bottom{
+    /* background-color: aqua; */
+    position: relative;
+    margin: 4vh;
+    justify-content: center;
+
+}
+.btn4{
+    margin-left: 40vw;
+    border: none;
+}
+.btny{
+    margin-left: 3vh;
+    border: none;
+}
+.btndim{
+    color: rgb(82, 121, 156);
+    
+}
+.background-blur {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    backdrop-filter: blur(5px); /* Adjust the blur radius as needed */
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .edit-card {
+    width: 30vw;
+    height: 35vh;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+   
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+  }
+  .edit-card label{
+    margin-bottom: 1vh;
+  }
+  .edit-card input{
+    margin-bottom: 3vh;
+  }
+  .edit-card button{
+    margin-right: 2vh;
+  }
+  .abc{
+    background-color:blue;
+  }
+  

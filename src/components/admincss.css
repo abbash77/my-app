@@ -1,0 +1,18 @@
+.searchinput{
+    width: 20vw;
+    height: 3vh;
+    border-radius: 3px;
+    margin: 5.3vh;
+    padding: 1vh;
+    border: 1px solid rgb(216, 215, 212);
+}
+.topclass{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn3{
+    margin-right: 5vh;
+    background-color: rgb(231, 157, 157);
+    color: white;
+}
